@@ -9,8 +9,7 @@ Also note, the desktop and mobile layouts are different sketch pages.
 
 ## Summary
 
-- _Part 1:_ Build the a section of InVision's Enterprise landing page. The entire page design is provided, but only the top portion of the page and the form modal are required to be built. Specifically, please build the navigation, header section, video section, and logo section. *Note: per Part 2 below, you will also need to build a modal overlay to include a form.
-- _Part 2:_ When a visitor clicks the CTA "Request a demo", a modal will open that contains the Enterprise demo request form.
+- _Part 1:_ Build out the sections of our Enterprise page provided in the design file (linked above). This will include the page itself, the video modal (use any video you'd like), and the form modal. When a visitor clicks the CTA "Request a demo", a modal will open that contains the Enterprise demo request form.
 - _Part 3:_ Store form submissions in a NoSQL database. Please provide access to this database for submissions to be verified.
 - _Part 4:_ Provide a hypothesis and documentation for an experiment you would run on this page to see improved conversion rates on the form.
 
