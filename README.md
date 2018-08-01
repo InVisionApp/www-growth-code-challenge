@@ -3,6 +3,7 @@
 ## Sketch File
 
 https://www.dropbox.com/s/z3k0ak5vf1wdzhd/www-growth-code-challenge.sketch?dl=0
+Desktop fonts: https://www.dropbox.com/s/bxruxeixou1ep26/desktop_fonts.zip?dl=0
 
 ## Summary
 
